@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am currently learning to program in C language.
+Hard skills: I am currently learning to program in C language and I'm not working on anything at the moment. 🚀
+Soft Skills: I'm always growing. 🧑‍🤝‍🧑
 <!--
 **AfonsoTech/AfonsoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
