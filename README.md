@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Eu sou o Afonso Henrique 👋
 - Hard skills: I am currently learning to program in C language and I'm not working on anything at the moment.🚀
 - Soft Skills: I'm always growing. 🧑‍🤝‍🧑
 <!--
